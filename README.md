@@ -16,9 +16,12 @@ I am a system architect. While debugging a failing AI automation pipeline, I dum
 
 Read the full forensic conversation log below. If you don't control the prompt payload, you don't control the AI.
 
+[2026-05-12_TalkToClaude.md](https://github.com/Saki-tw/why-your-ai-is-dumbing-down/blob/master/2026-05-12_TalkToClaude_EN.md)
+
 ---
 
 <a id="繁體中文"></a>
+
 ## 🇹🇼 繁體中文：破案了！平台為省錢，偷偷切除了你 AI 的大腦
 
 你沒瘋，大模型也沒有變笨。真相是：**你花錢訂閱的 AI IDE 和平台，為了節省 API 的 Token 成本，在底層偷偷把你的 AI 給閹割了。**
@@ -31,6 +34,8 @@ Read the full forensic conversation log below. If you don't control the prompt p
 3. **你的提示詞全變廢紙**：這句隱藏指令直接碾壓了你辛辛苦苦寫的 System Prompt 和防呆規則。這就是為什麼你的 AI 最近講不聽、一直忘記規則、甚至亂生變數的原因。
 
 下方附上完整的法醫學對話日誌。別再懷疑自己的 Prompt 功力了，是基礎設施在搞你。
+
+[2026-05-12_TalkToClaude.md](https://github.com/Saki-tw/why-your-ai-is-dumbing-down/blob/master/2026-05-12_TalkToClaude.md)
 
 ---
 
@@ -48,3 +53,5 @@ Read the full forensic conversation log below. If you don't control the prompt p
 3. **プロンプトの無効化**：この隠しコマンドにより、あなたが設定したルールやプロトコルは完全に無視されます。これがAIが急に馬鹿になり、指示に従わなくなる本当の理由です。
 
 完全なデバッグログは以下に添付されています。インフラストラクチャにプロンプトを支配されている限り、AIの暴走は止まりません。
+
+[2026-05-12_TalkToClaude.md](https://github.com/Saki-tw/why-your-ai-is-dumbing-down/blob/master/2026-05-12_TalkToClaude_JP.md)
